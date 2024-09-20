@@ -1,0 +1,14 @@
+C:\C#\VETO2\bin\Debug\net8.0\VETO2.exe
+C:\C#\VETO2\bin\Debug\net8.0\VETO2.deps.json
+C:\C#\VETO2\bin\Debug\net8.0\VETO2.runtimeconfig.json
+C:\C#\VETO2\bin\Debug\net8.0\VETO2.dll
+C:\C#\VETO2\bin\Debug\net8.0\VETO2.pdb
+C:\C#\VETO2\obj\Debug\net8.0\VETO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\VETO2\obj\Debug\net8.0\VETO2.AssemblyInfoInputs.cache
+C:\C#\VETO2\obj\Debug\net8.0\VETO2.AssemblyInfo.cs
+C:\C#\VETO2\obj\Debug\net8.0\VETO2.csproj.CoreCompileInputs.cache
+C:\C#\VETO2\obj\Debug\net8.0\VETO2.dll
+C:\C#\VETO2\obj\Debug\net8.0\refint\VETO2.dll
+C:\C#\VETO2\obj\Debug\net8.0\VETO2.pdb
+C:\C#\VETO2\obj\Debug\net8.0\VETO2.genruntimeconfig.cache
+C:\C#\VETO2\obj\Debug\net8.0\ref\VETO2.dll
